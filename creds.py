@@ -6,4 +6,4 @@ Client_Secret = "7cd3143bfd64d18858be03e52c04d2fad9c6d01ec748f71a75ff6585632aa12
 Product_ID = "Henri"
 
 #Redis
-redis_url = "redis://h:p20dedd1bbf3cb67c9cfbf70f98475e9d86e25cd1c5c05a590ec5c4b59975abbc@ec2-34-230-117-175.compute-1.amazonaws.com:18939"
+redis_url = "redis://h:p20dedd1bbf3cb67c9cfbf70f98475e9d86e25cd1c5c05a590ec5c4b59975abbc"
