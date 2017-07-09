@@ -6,4 +6,4 @@ Client_Secret = "7cd3143bfd64d18858be03e52c04d2fad9c6d01ec748f71a75ff6585632aa12
 Product_ID = "Henri"
 
 #Redis
-redis_url = "ec2-34-230-117-175.compute-1.amazonaws.com"
+redis_url = "https://addons-sso.heroku.com/apps/a6ad3789-987c-4c2a-845f-5c8ed9060115/addons/798200e8-1e08-4dfb-a74f-9fbdc26a0940"
